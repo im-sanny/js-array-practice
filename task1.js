@@ -9,4 +9,4 @@ const fruits= ['banana', 'apple', 'orange', 'litchi', 'mango'];
 console.log(fruits[3]);
 let third='jambura';
 fruits [2]='jambura';
-console.log(fruits)
+console.log(fruits);
